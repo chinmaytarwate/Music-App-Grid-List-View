@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Music Project</string>
+    <string-array name="song_names">
+        <item>Comfortably Numb</item>
+        <item>Misirlou</item>
+        <item>On Melancholy Hill</item>
+        <item>No Surprises</item>
+        <item>Thunderstruck</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Hotel California</item>
+        <item>Sweet Child O\' Mine</item>
+        <item>Believer</item>
+        <item>See You Again</item>
+    </string-array>
+    <string-array name="song_urls">
+        <item>https://www.youtube.com/watch?v=hiUHoABnhME</item>
+        <item>https://www.youtube.com/watch?v=lRH_70_Foow</item>
+        <item>https://www.youtube.com/watch?v=04mfKJWDSzI</item>
+        <item>https://www.youtube.com/watch?v=u5CVsCnxyXg</item>
+        <item>https://www.youtube.com/watch?v=v2AC41dglnM</item>
+        <item>https://www.youtube.com/watch?v=fJ9rUzIMcZQ</item>
+        <item>https://www.youtube.com/watch?v=811QZGDysx0</item>
+        <item>https://www.youtube.com/watch?v=1w7OgIMMRc4</item>
+        <item>https://www.youtube.com/watch?v=7wtfhZwyrcc</item>
+        <item>https://www.youtube.com/watch?v=RgKAFK5djSk</item>
+    </string-array>
+    <string-array name="artists">
+        <item>Pink Floyd</item>
+        <item>Dick Dale</item>
+        <item>Gorillaz</item>
+        <item>Radiohead</item>
+        <item>AC/DC</item>
+        <item>Queen</item>
+        <item>Eagles</item>
+        <item>Guns N\' Roses</item>
+        <item>Imagine Dragons</item>
+        <item>Wiz Khalifa</item>
+    </string-array>
+    <string-array name="songWiki">
+        <item>https://en.wikipedia.org/wiki/Comfortably_Numb</item>
+        <item>https://en.wikipedia.org/wiki/Misirlou</item>
+        <item>https://en.wikipedia.org/wiki/On_Melancholy_Hill</item>
+        <item>https://en.wikipedia.org/wiki/No_Surprises</item>
+        <item>https://en.wikipedia.org/wiki/Thunderstruck_(song)</item>
+        <item>https://en.wikipedia.org/wiki/Bohemian_Rhapsody</item>
+        <item>https://en.wikipedia.org/wiki/Hotel_California_(Eagles_album)</item>
+        <item>https://en.wikipedia.org/wiki/Sweet_Child_o%27_Mine</item>
+        <item>https://en.wikipedia.org/wiki/Believer_(Imagine_Dragons_song)</item>
+        <item>https://en.wikipedia.org/wiki/See_You_Again</item>
+    </string-array>
+    <string-array name="bandWiki">
+        <item>https://en.wikipedia.org/wiki/Pink_Floyd</item>
+        <item>https://en.wikipedia.org/wiki/Dick_Dale</item>
+        <item>https://en.wikipedia.org/wiki/Gorillaz</item>
+        <item>https://en.wikipedia.org/wiki/Radiohead</item>
+        <item>https://en.wikipedia.org/wiki/AC/DC</item>
+        <item>https://en.wikipedia.org/wiki/Queen_(band)</item>
+        <item>https://en.wikipedia.org/wiki/Eagles_(band)</item>
+        <item>https://en.wikipedia.org/wiki/Guns_N%27_Roses</item>
+        <item>https://en.wikipedia.org/wiki/Imagine_Dragons</item>
+        <item>https://en.wikipedia.org/wiki/Wiz_Khalifa</item>
+    </string-array>
+</resources>

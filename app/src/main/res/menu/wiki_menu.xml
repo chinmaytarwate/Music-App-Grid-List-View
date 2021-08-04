@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <item
+        android:id="@+id/view_song"
+        android:title="View video" />
+
+    <item
+        android:id="@+id/wiki_song"
+        android:title="View Song\'s Wikipedia" />
+
+    <item
+        android:id="@+id/band_wiki"
+        android:title="View Band\'s Wikipedia" />
+</menu>
